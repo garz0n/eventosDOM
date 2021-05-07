@@ -1,0 +1,31 @@
+.cuadrado{
+	height: 350px;
+	width: 350px;
+	border: solid black 1px;
+}
+
+.red{
+    height: 620px;
+	width: 620px;
+	display: flex;
+	flex-wrap:wrap; 
+}
+
+#cuadrado1{
+    background-color: rgb(248, 146, 133);
+}
+#cuadrado2{
+    background-color: rgb(230, 240, 140);
+}
+
+#body{
+    background-color: dodgerblue;
+}
+
+#jumbotron1{
+    background-image: url(../img/programacion.png);
+    background-color: lightslategray;
+}
+#jumbotron2{
+    background-color: cadetblue;
+}
